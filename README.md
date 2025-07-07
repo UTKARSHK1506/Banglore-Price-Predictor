@@ -8,7 +8,7 @@ A simple web app to estimate Bangalore home prices based on location,total squar
 - Flask backend with REST API.
 - Interactive frontend using HTML, CSS, and JavaScript.
 
-- ![App Screenshot](result/Screenshot_2025-07-07_140836.png)
+
 
 
 
